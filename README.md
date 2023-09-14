@@ -1,15 +1,13 @@
 # Network-Hardening-Analysis
 <h1>Description</h1>
-In this exercise, I assumed the role of a cybersecurity analyst employed by a company hosting the cooking website, yummyrecipesforme.com. The website's visitors encountered a security issue while loading the main webpage, and my responsibility was to conduct a thorough investigation, identify the problem, document your findings, and propose a solution to rectify the security issue.
+In this exercise, I am presented with a scenario involving a social media organization that has recently suffered a significant data breach due to undetected vulnerabilities. My task was to address this breach by identifying common network hardening tools that can be applied to enhance the organization's overall security. Subsequently, I pinpointed a specific vulnerability within the company and proposed various network hardening techniques to mitigate it. Lastly, I elucidated how the chosen methods and tools will effectively manage the vulnerability and proactively prevent future breaches.
 
-During my investigation of this security event, I examined a tcpdump log to uncover the network protocols employed in establishing connections between users and the website. These network protocols serve as the rules and standards governing data transmission among networked devices. Unfortunately, malicious actors can exploit these very protocols to infiltrate and attack private networks. Acquiring the skill to identify commonly used attack protocols is crucial for safeguarding your organization's network against such security incidents.
-
-In successfully completing this assignment, I compiled a detailed account of the events surrounding the security incident and provided a recommendation for implementing a security measure to prevent similar issues from occurring in the future.
+Based on my knowledge about network hardening and security-related practices, such as port filtering, network access controls, and encryption protocols for safeguarding network communications. These network hardening practices empower organizations to proactively monitor potential threats and thwart certain attacks from compromising their networks. Some of these measures are implemented as routine safeguards, while others are periodically enacted, such as bi-weekly or monthly reviews. Proficiency in utilizing network hardening tools and methodologies have equipped me with the capability to vigilantly monitor network activities and fortify an organization's network against a spectrum of potential threats.
 
 <h2>Scenario</h2>
 Review the scenario below.
 
-You are a security analyst working for a social media organization. The organization recently experienced a major data breach, which compromised the safety of their customers’ personal information, such as names and addresses. Your organization wants to implement strong network hardening practices that can be performed consistently to prevent attacks and breaches in the future. 
+You are a security analyst working for a social media organization. The organization recently experienced a major data breach, which compromised the safety of their customers’ personal information, such as names and addresses. Your organization wants to implement strong network hardening practices that can be performed consistently to prevent attacks and breaches in the future.
 
 
 - <a> After inspecting the organization’s network, you discover four major vulnerabilities. The four vulnerabilities are as follows: </a>
