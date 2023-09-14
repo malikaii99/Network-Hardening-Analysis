@@ -19,9 +19,10 @@ You are a security analyst working for a social media organization. The organiza
 
 If no action is taken to address these vulnerabilities, the organization is at risk of experiencing another data breach or other attacks in the future. 
 
-- <a> Required Documents </a>
-  - [Network hardening tools](https://github.com/malikaii99/Operation-System-Hardening-Practice/blame/728a4090581dc4dc43672afb885a8a84e6714fb5/DNS%20%26%20HTTP%20traffic%20log.docx)
 
+<h3>Part 1: Security risk assessment report </h3>
 
-<h3>Part 1: Security incident Report </h3>
-
+- <a> I would strongly suggest three hardening tools and methods to implement which can improve the security in their systems:  </a>
+    -  Firewall Maintenance: It is crucial to conduct regular security configuration checks and updates to mitigate vulnerabilities. Proactively maintaining the firewall allows for effective threat prevention. Additionally, updating firewall rules to filter both incoming and outgoing network traffic is a pivotal component of this approach. Whenever a security event, particularly one that permits suspicious network traffic into the system, occurs, firewall rules should be promptly updated. This measure serves as a formidable defense against various types of Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks.
+    -  Password Policies: Enforcing rigorous password policies for all employees is essential to safeguard the confidentiality of their passwords and discourage attackers from easily guessing or cracking user passwords. Establishing and enforcing a password policy within the organization significantly raises the difficulty level for malicious actors attempting to gain network access. Regular enforcement of the password policy rules is imperative to enhance user security continually.
+    -  Multifactor Authentication (MFA): Implementation of MFA mandates that users validate their identity through two or more authentication methods before accessing the system or network. These authentication methods can encompass passwords, PINs, badges, one-time passwords (OTPs) sent to mobile phones, fingerprints, and more. The adoption of MFA substantially reinforces network access security. Regularly enforcing MFA helps reduce the likelihood of malicious actors gaining access through brute force or related attacks. It also mitigates the risk of password sharing within the organization, particularly among personnel with administrator-level privileges on the network.
