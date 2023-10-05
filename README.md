@@ -21,7 +21,7 @@ After inspecting the organization’s network, you discover four major vulnerabi
 If no action is taken to address these vulnerabilities, the organization is at risk of experiencing another data breach or other attacks in the future. 
 
 
-<h3>Security risk assessment report </h3>
+<h3>Security Risk Assessment Report </h3>
 
 I would strongly suggest three hardening tools and methods to implement that can improve the security of their systems:
 
